@@ -1,6 +1,11 @@
 # batch-processing
+create db first 
+=======================
+create datbase batch
+use batch
+=================
 url :
-PostMApping:
+PostMapping:
 localhost:9090/jobs/import
 
 -----------------------------
