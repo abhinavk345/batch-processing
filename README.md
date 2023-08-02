@@ -1,4 +1,9 @@
 # batch-processing
+url :
+PostMApping:
+localhost:9090/jobs/import
+
+-----------------------------
 output view::
 --------------------------------------------
 mysql> select * from customer_new limit 100;
